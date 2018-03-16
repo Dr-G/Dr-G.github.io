@@ -1,0 +1,8 @@
+google_fonts:
+  - name: "Lato"
+    weights: "400,400i,700,700i"
+  
+navigation_pages:
+  - blog/index.html
+  - experience.md
+  - thoughtleadership.md
