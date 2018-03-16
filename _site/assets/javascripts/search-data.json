@@ -1,0 +1,36 @@
+var store = [{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.1.html"
+      },{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.2.html"
+      },{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.3.html"
+      },{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.4.html"
+      },{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.5.html"
+      },{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.6.html"
+      },{
+        "title": "Nice! Gina's new site",
+        "excerpt":"Test postI really hope this dang thing works correctly.","categories": ["leadership"],
+        "tags": [],
+        "url": "http://localhost:4000/leadership/2018/03/15/welcome-to-jekyll.html"
+      }]
