@@ -2,6 +2,10 @@
 layout: page
 title: Experience
 permalink: /experience/
+actions:
+  - label: "View Thought Leadership"
+    icon: arrow-right
+    url: /thoughtleadership/
 ---
 Gina is a collaborative and visionary leader with strong skills in management, communications, and marketing. Her diverse experience spans business, tech, higher ed, and nonprofits.
 

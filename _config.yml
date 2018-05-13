@@ -22,6 +22,7 @@ url: https://Dr-G.github.io # the base hostname & protocol for your site, e.g. h
 author:
   name: Gina Helfrich
   twitter: ginahelfrich
+  picture: /assets/images/businessheadshot300.png
 twitter_username: ginahelfrich
 linkedin_username: ginahelfrich
 search: true

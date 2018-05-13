@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: about
 title: Thought Leadership
 permalink: /thoughtleadership/
+actions:
+  - label: "Contact Gina"
+    icon: email
+    url: mailto:myname@gmail.com
 ---
 **SPEAKING ENGAGEMENTS**  
   
