@@ -9,7 +9,7 @@ tags: ['tech-diversity']
 author: Gina Helfrich, Ph.D.
 published: true
 ---
-The percent of technical workers in the U.S. who are Black or Latinx hovers in the single digits, and women have remained stuck at about [21%](http://anitaborg.org/news/measure-what-matters/) of technical roles for the past five years.
+The percent of technical workers in the U.S. who are Black or Latinx hovers in the single digits, and women have remained stuck at about [21%](http://anitaborg.org/news/measure-what-matters/) of technical roles for the past five years. _[Read More...](http://ginahelfrich.com/posts/is-lack-of-diversity-self-fulfilling-prophecy/)_
 
 When advocates for underrepresented people in tech argue for leadership to be more proactive in recruiting minorities and women, however, they hear a near-constant refrain: “we won’t lower the bar.”
 
