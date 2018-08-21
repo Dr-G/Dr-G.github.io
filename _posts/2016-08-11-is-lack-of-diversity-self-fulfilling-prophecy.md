@@ -7,7 +7,7 @@ date:   2016-08-1 20:09:47 +0700
 categories: posts
 tags: ['tech-diversity']
 author: Gina Helfrich, Ph.D.
-published: false
+published: true
 ---
 The percent of technical workers in the U.S. who are Black or Latinx hovers in the single digits, and women have remained stuck at about [21%](http://anitaborg.org/news/measure-what-matters/) of technical roles for the past five years.
 
