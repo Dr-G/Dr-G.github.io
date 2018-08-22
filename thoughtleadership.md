@@ -10,6 +10,15 @@ active: thought leadership
 
 **SPEAKING ENGAGEMENTS**  
   
+**[Columbia University Distinguished Lectures in Computational Innovation](https://brown.columbia.edu/event/distinguished-lectures-in-computational-innovation-dr-gina-helfrich/)**
+"Join or Die: The Future of Computational Innovation and the End of the Academy as We Know It"
+April 11, 2019
+
+**Breaking the Glass Panel**
+**"The Power of No: Pushing Back and Advocating For Yourself"**
+Austin, TX
+July 19, 2018
+
 **[AlterConf](https://alterconf.com/conferences/2017/austin-tx)**  
 Austin, TX  
 August 26, 2017  
@@ -44,15 +53,15 @@ September 15, 2016
 Austin, TX  
 March 14, 2016  
   
-[**Nerd Nite**  
-](https://vimeo.com/116983511)**“How to be Good: Overcoming Unconscious Bias (with some help from Aristotle)”**  
+[**Nerd Nite**](https://vimeo.com/116983511)
+**“How to be Good: Overcoming Unconscious Bias (with some help from Aristotle)”**  
 Austin, TX  
 January 14, 2015  
   
   
 **DIGITAL PUBLISHING**  
   
-[Gina's Blog](http://bit.ly/2caK3o9)  
+[Gina's Blog](http://ginahelfrich.com/blog/)  
 [recruitHER Blog](http://bit.ly/2aGoKZn)  
   
 ["How Women Can Get Ahead in Technology"](http://www.huffingtonpost.com/entry/58c80a10e4b03400023f4b6b) \- Huffington Post  
