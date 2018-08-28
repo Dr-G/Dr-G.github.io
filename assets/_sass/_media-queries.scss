@@ -173,7 +173,7 @@
   }
 }
 
-@media screen and (max-width: $md-break-point) {
+@media screen and (max-width: $break-point) {
   .sidebar {
     background-attachment: scroll;
   }
