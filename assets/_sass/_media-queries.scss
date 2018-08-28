@@ -172,3 +172,9 @@
     padding: 2em;
   }
 }
+
+@media screen and (max-width: $md-break-point) {
+  .sidebar {
+    background-attachment: scroll;
+  }
+}
