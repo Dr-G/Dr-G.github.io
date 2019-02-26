@@ -21,7 +21,9 @@ Gina is a collaborative and visionary leader with strong skills in management, c
   
 **PROFESSIONAL EXPERIENCE**  
   
-**Communications Director and Program Manager for Diversity & Inclusion, [NumFOCUS](http://numfocus.org/)** (February 2017 – present)  
+**Director of Communications and Culture** (Jan. 2019 – Present)  
+**Communications Director and Program Manager for Diversity & Inclusion** (Feb. 2017 – Dec. 2018)  
+**[NumFOCUS](http://numfocus.org/)**  
 501(c)(3) nonprofit promoting better science through open code.  
   
 **Independent Consultant** (June 2015 – present)  
@@ -35,8 +37,8 @@ A women-owned recruiting and consulting firm committed to connecting diverse tal
 **Lead Analyst, [EvoSure](http://evosure.com/)** (March 2014 – March 2015)  
 B2B web technology startup focused on the commercial insurance industry.  
   
-**Director (** July 2011 – Feb. 2014)  
-**Assistant Director** ( Jan. 2010 – June 2011)  
+**Director** (July 2011 – Feb. 2014)  
+**Assistant Director** (Jan. 2010 – June 2011)  
 **[Harvard College Women’s Center](http://hcwc.fas.harvard.edu/), Harvard University**  
 Unit in the Office of Student Life with mission to improve gender equity, women’s leadership, and inclusion and diversity on campus.  
   
