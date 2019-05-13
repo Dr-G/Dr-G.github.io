@@ -16,6 +16,6 @@ Gina is an accomplished and visionary leader with a track record of success acro
 
 Gina is an expert on women's leadership and gender equity with over a decade of experience working to advance diversity and inclusion. She provides consulting services for companies looking to enhance their culture, increase employees' sense of belonging, minimize unconscious bias, and ensure equal opportunity and equal treatment for all. Gina is the former Director of the Harvard College Women's Center and holds a Ph.D. in Philosophy from Emory University with a specialization in ethics and critical social theory.
 
-Gina has spoken at thought leadership events including South By Southwest Interactive (SXSW), the Texas Conference for Women, and Tech Inclusion. She will be speaking at Columbia University's [Distinguished Lectures in Computational Innovation](https://events.columbia.edu/cal/event/showEventMore.rdo) in April 2019.
+Gina has spoken at thought leadership events including South By Southwest Interactive (SXSW), the Texas Conference for Women, Tech Inclusion, and Columbia University's Distinguished Lectures in Computational Innovation.
 
 Gina lives in Austin, Texas, where she enjoys swing dancing, rock climbing, and improv comedy.
