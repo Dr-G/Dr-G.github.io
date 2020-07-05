@@ -1,5 +1,5 @@
 ---
-bg: "businessheadshotcrop.jpg"
+bg: "ginaHeadshot.png"
 layout: page
 title: "Thought Leadership"
 crawlertitle: "Gina Helfrich, Ph.D. | Thought Leadership"
@@ -61,7 +61,7 @@ January 14, 2015
   
 **DIGITAL PUBLISHING**  
   
-[Gina's Blog](http://ginahelfrich.com/blog/)  
+[Gina's Blog](https://ginahelfrich.com/blog/)  
 [recruitHER Blog](http://bit.ly/2aGoKZn)  
   
 ["How Women Can Get Ahead in Technology"](http://www.huffingtonpost.com/entry/58c80a10e4b03400023f4b6b) \- Huffington Post  

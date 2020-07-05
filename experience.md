@@ -1,5 +1,5 @@
 ---
-bg: "businessheadshotcrop.jpg"
+bg: "ginaHeadshot.png"
 layout: page
 title: "Experience"
 crawlertitle: "Gina Helfrich, Ph.D. | Experience"

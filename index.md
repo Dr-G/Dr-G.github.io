@@ -1,5 +1,5 @@
 ---
-bg: "businessheadshotcrop.jpg"
+bg: "ginaHeadshot.png"
 layout: default
 title: "Gina Helfrich, Ph.D."
 crawlertitle: "Gina Helfrich, Ph.D. | About"
