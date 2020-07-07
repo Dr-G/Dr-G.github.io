@@ -4,7 +4,7 @@ layout: default
 title: "Gina Helfrich, Ph.D."
 crawlertitle: "Gina Helfrich, Ph.D. | About"
 # permalink: /about/
-# summary: "Technology + Society, Diversity & Inclusion"
+# summary: "Technology | Society | Justice"
 # active: about
 ---
 
