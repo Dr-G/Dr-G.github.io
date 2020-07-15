@@ -27,12 +27,7 @@ November 15, 2016
 Austin, TX  
 March 14, 2016  
   
-[**Nerd Nite**](https://vimeo.com/116983511)  
-**“How to be Good: Overcoming Unconscious Bias (with some help from Aristotle)”**  
-Austin, TX  
-January 14, 2015  
-  
-  
+
 **SELECTED PUBLICATIONS & PRESENTATIONS**  
   
 
@@ -40,6 +35,7 @@ January 14, 2015
 *   **“Gender-inclusive practices in campus women’s and gender centers: Benefits, challenges, and future prospects,”** co-authored with Dr. Susan Marine and Liam Randhawa, NASPA Journal about Women in Higher Education (NJAWHE)  
     (Spring 2017)
 *   **“Overcoming Unconscious Bias (with some help from Aristotle)”** St. Mary’s University Philosophy Department, Invited Talk, San Antonio, TX, April 10, 2015
+*   **“How to be Good: Overcoming Unconscious Bias (with some help from Aristotle)”** [Nerd Nite](https://vimeo.com/116983511), Austin, TX, January 14, 2015  
 *   **“Sexism in Tech is Everyone's Problem”**  
     Velma Magazine ( [Issue 5, February 2015](http://issuu.com/velmamag/docs/velmamagissue5sex/19))
 *   **“Can’t take the women’s center out of the administrator: Creating justice in our next jobs”** National Women’s Studies Association 35th Annual Conference, “Feminist Transgressions,” San Juan, Puerto Rico, November 13-16, 2014
