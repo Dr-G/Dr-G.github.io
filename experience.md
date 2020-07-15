@@ -21,18 +21,19 @@ Gina is a collaborative and visionary leader with strong skills in management, c
   
 **PROFESSIONAL EXPERIENCE**  
   
-**Director of Communications and Culture** (Jan. 2019 – Present)  
+**Program Officer for Global Technology**, **[Internews](https://globaltech.internews.org/)** (Dec. 2019 - Present)  
+Internews empowers people worldwide with the trustworthy, high-quality news and information they need to make informed decisions, participate in their communities, and hold power to account.  
+
+**Principal Consultant, Helfrich Strategies, LLC** (June 2015 – Present)  
+
+**Director of Communications and Culture** (Jan. - Dec. 2019)  
 **Communications Director and Program Manager for Diversity & Inclusion** (Feb. 2017 – Dec. 2018)  
+**Communications Director** (July 2015 – April 2016)  
 **[NumFOCUS](http://numfocus.org/)**  
 501(c)(3) nonprofit promoting better science through open code.  
   
-**Independent Consultant** (June 2015 – present)  
-  
 **Co-Founder, [recruitHER](http://www.recruither.io/)** (July 2015 – July 2016)  
 A women-owned recruiting and consulting firm committed to connecting diverse talent with opportunities in the tech industry.  
-  
-**Communications Director, [NumFOCUS](http://numfocus.org)** (July 2015 – April 2016)  
-501(c)(3) nonprofit promoting better science through open code.  
   
 **Lead Analyst, [EvoSure](http://evosure.com/)** (March 2014 – March 2015)  
 B2B web technology startup focused on the commercial insurance industry.  
@@ -42,22 +43,11 @@ B2B web technology startup focused on the commercial insurance industry.
 **[Harvard College Women’s Center](http://hcwc.fas.harvard.edu/), Harvard University**  
 Unit in the Office of Student Life with mission to improve gender equity, women’s leadership, and inclusion and diversity on campus.  
   
-**Committee Service at Harvard**
 
-*   Office of BGLTQ Student Life Advisory Board Executive Committee, 2013–2014
-*   Committee on Degrees in Women’s, Gender, and Sexuality Studies (WGSS) Standing Committee, 2012–2014
-*   WGSS Tutorial Board, 2010–2014
-*   Faculty of Arts and Sciences Diversity Committee, 2011–2014
-*   Office of Student Life Student Organization Recognition Committee, 2011–2014
-*   Harvard University Health Services/College Committee on Student Health, 2010–2014
-*   Dean of Harvard College’s Strategic Planning Committee on Excellence in Undergraduate Teaching and Learning, Feb.–Dec. 2012
-*   Harvard University Women in Business Advisory Board, 2011–2012
-*   Harvard College Board of Freshman Advisers, Fall 2010–Spring 2012
-
-  
-  
 **VOLUNTEER EXPERIENCE**  
   
+**Secretary and VP Operations, [Women Communicators of Austin](https://wcaustin.org)** (June 2020 - Present)
+
 **Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct. 2014 – June 2017)  
 A solution-oriented group for people of all genders, providing actionable resources to combat sexism and support the retention and leadership of women in the tech industry in Austin.  
   
@@ -69,7 +59,15 @@ Annual conference for over 100 women's center professionals.
 **Founder and Coordinator** , **New England Women’s Centers Conference** (Feb. – Nov. 2010)  
 Annual professional development conference for university women's center staff.  
   
-  
+ **Committee Service at Harvard**
+
+*   Office of BGLTQ Student Life Advisory Board Executive Committee, 2013–2014
+*   Committee on Degrees in Women’s, Gender, and Sexuality Studies (WGSS) Standing Committee, 2012–2014
+*   Faculty of Arts and Sciences Diversity Committee, 2011–2014
+*   Dean of Harvard College’s Strategic Planning Committee on Excellence in Undergraduate Teaching and Learning, Feb.–Dec. 2012
+*   Harvard University Women in Business Advisory Board, 2011–2012
+
+
 **AWARDS & CERTIFICATIONS**  
   
 **PMP Certification, Project Management Institute**, License No. 1829020  
@@ -99,10 +97,3 @@ One of ten people chosen to be flown in as special guests for the inaugural Aust
 **Teaching Associate**
 
 *   History of Western Philosophy I
-
-**Teaching Assistant**
-
-*   History of Western Philosophy I
-*   Water: In Science, Philosophy, and Literature
-*   History of Western Philosophy II
-*   Candler School of Theology, Christian Ethics
