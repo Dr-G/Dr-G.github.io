@@ -4,11 +4,11 @@ layout: default
 title: "Gina Helfrich, Ph.D."
 crawlertitle: "Gina Helfrich, Ph.D. | About"
 # permalink: /about/
-# summary: "Technology | Society | Justice"
+# summary: "Technology | Culture | Justice"
 # active: about
 ---
 
-<h4 align="center">Communications, Diversity & Inclusion, Women in Tech & Business</h4>  
+<h4 align="center">Technology | Culture | Justice</h4>  
 
 Dr. Gina Helfrich is Program Officer for Global Technology at [Internews](https://globaltech.internews.org/).  
 
