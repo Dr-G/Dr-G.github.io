@@ -4,11 +4,9 @@ layout: page
 title: "Experience"
 crawlertitle: "Gina Helfrich, Ph.D. | Experience"
 permalink: /experience/
-# summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
+# summary: "Technology | Culture | Justice"
 active: experience
 ---
-
-Gina is a collaborative and visionary leader with strong skills in management, communications, and marketing. Her diverse experience spans business, tech, higher ed, and nonprofits.
 
 **EDUCATION**  
   
