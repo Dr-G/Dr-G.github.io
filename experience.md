@@ -19,7 +19,9 @@ active: experience
   
 **PROFESSIONAL EXPERIENCE**  
   
-**Program Officer for Global Technology**, **[Internews](https://globaltech.internews.org/)** (Dec. 2019 - Present)  
+**Senior Program Officer for Global Technology** (Nov 2021 - Present)  
+**Program Officer for Global Technology** (Dec. 2019 - Oct 2021)  
+**[Internews](https://globaltech.internews.org/)**  
 Internews empowers people worldwide with the trustworthy, high-quality news and information they need to make informed decisions, participate in their communities, and hold power to account.  
 
 **Principal Consultant, Helfrich Strategies, LLC** (June 2015 – Present)  
@@ -44,7 +46,7 @@ Unit in the Office of Student Life with mission to improve gender equity, women�
 
 **VOLUNTEER EXPERIENCE**  
   
-**Secretary and VP Operations, [Women Communicators of Austin](https://wcaustin.org)** (June 2020 - Present)
+**Secretary and VP Operations, [Women Communicators of Austin](https://wcaustin.org)** (June 2020 - May 2021)
 
 **Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct. 2014 – June 2017)  
 A solution-oriented group for people of all genders, providing actionable resources to combat sexism and support the retention and leadership of women in the tech industry in Austin.  
