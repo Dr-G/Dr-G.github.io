@@ -46,6 +46,8 @@ Unit in the Office of Student Life with mission to improve gender equity, womenâ
 
 **VOLUNTEER EXPERIENCE**  
   
+**Member, [American Philosophical Association Non-Academic Careers Committee](https://www.apaonline.org/group/nonacademic)** (2021 - 2024 term)
+
 **Secretary and VP Operations, [Women Communicators of Austin](https://wcaustin.org)** (June 2020 - May 2021)
 
 **Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct. 2014 â€“ June 2017)  
