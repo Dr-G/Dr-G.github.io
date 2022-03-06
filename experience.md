@@ -80,7 +80,7 @@ One of ten people chosen to be flown in as special guests for the inaugural Aust
   
 **TEACHING EXPERIENCE**  
   
-**Lecturer** , **[Committee on Degrees in Studies of Women, Gender, and Sexuality, Harvard University](http://wgs.fas.harvard.edu/)**
+**Lecturer**, **[Committee on Degrees in Studies of Women, Gender, and Sexuality, Harvard University](http://wgs.fas.harvard.edu/)**
 
 *   Studies of Women, Gender, and Sexuality 1466: Virtue, Vice and Everyday Life
 *   Studies of Women, Gender, and Sexuality S-43s: Gender, Race, and Ethics in the Twenty-First Century (Summer Seminar and Freshman Seminar)
