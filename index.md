@@ -18,4 +18,4 @@ Dr. Helfrich has worked to advance diversity, equity, and belonging in the techn
 
 Dr. Helfrich has been an invited speaker at events such as South By Southwest Interactive (SXSW), the Texas Conference for Women, and Columbia University’s Distinguished Lectures in Computational Innovation.
 
-She lives in Austin, Texas, with her husband and two cats.
+She lives in Edinburgh, Scotland.
