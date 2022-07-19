@@ -98,7 +98,7 @@ One of ten people chosen to be flown in as special guests for the inaugural Aust
 *   PHIL 201: Introduction to Philosophy (two sections)
 
   
-**[Department of Philosophy, Emory University](http://philosophy.emory.edu/home/index.html)**  
+**Department of Philosophy, [Emory University](http://philosophy.emory.edu/home/index.html)**  
 
 **Instructor**
 
