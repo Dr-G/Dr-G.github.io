@@ -20,4 +20,4 @@ Dr. Helfrich has been an invited speaker at events such as South By Southwest In
 
 Originally from Texas, she now lives in Edinburgh, Scotland.
 
-```<a rel="me" href="https://mastodon.social/@ginahelfrich">I'm on Mastodon.</a>```
+<a rel="me" href="https://mastodon.social/@ginahelfrich"></a>
