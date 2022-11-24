@@ -19,3 +19,5 @@ She holds a Ph.D. in Philosophy from Emory University with a specialization in e
 Dr. Helfrich has been an invited speaker at events such as South By Southwest Interactive (SXSW), the Texas Conference for Women, and Columbia University’s Distinguished Lectures in Computational Innovation.
 
 Originally from Texas, she now lives in Edinburgh, Scotland.
+
+```<a rel="me" href="https://mastodon.social/@ginahelfrich"></a>```
