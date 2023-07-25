@@ -7,7 +7,7 @@ permalink: /thoughtleadership/
 # summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
 active: thought leadership
 ---
-**SELECTED PUBLICATIONS & PRESENTATIONS**  
+<h3>SELECTED PUBLICATIONS & PRESENTATIONS</h3>  
   
 
 *   **[ChatGPT: Six reasons why we should all be wary of this kind of AI](https://www.scotsman.com/news/opinion/columnists/chatgpt-six-reasons-why-we-should-all-be-wary-of-this-kind-of-ai-dr-gina-helfrich-4026538)** The Scotsman, February 15, 2023
@@ -29,7 +29,7 @@ active: thought leadership
    
    
    
-**SELECTED SPEAKING ENGAGEMENTS**  
+<h3>SELECTED SPEAKING ENGAGEMENTS</h3>  
   
 **[Columbia University Distinguished Lectures in Computational Innovation](https://brown.columbia.edu/event/distinguished-lectures-in-computational-innovation-dr-gina-helfrich/)**  
 "Join or Die: The Future of Computational Innovation and the End of the Academy as We Know It"  
