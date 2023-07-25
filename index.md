@@ -18,4 +18,4 @@ Dr. Helfrich has been a contributing columnist to <em>[The Scotsman](https://www
 
 Originally from Texas, she now lives in Edinburgh, Scotland.
 
-<a rel="me" href="https://techpolicy.social/@ginahelfrich"></a>
+<a rel="me" href="https://techpolicy.social/@ginahelfrich">Follow Gina on Mastodon</a>
