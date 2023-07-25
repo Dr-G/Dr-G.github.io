@@ -8,50 +8,53 @@ permalink: /experience/
 active: experience
 ---
 
-**EDUCATION**  
+<h3>EDUCATION</h3>   
   
-**Emory University**, Atlanta, GA  
-**PhD in Philosophy**, Graduate Certificate in Women's Studies  
+<em>Emory University</em>, Atlanta, GA  
+**PhD in Philosophy**, Graduate Certificate in Women's, Gender, & Sexuality Studies  
   
-**Boston College**, Chestnut Hill, MA  
+<em>Boston College</em>, Chestnut Hill, MA  
 **BA in Philosophy**, _Magna Cum Laude_  
   
+
   
-**PROFESSIONAL EXPERIENCE**  
-**[Centre for Technomoral Futures](https://www.technomoralfutures.uk/), Edinburgh Futures Institute, University of Edinburgh**  
+<h3>PROFESSIONAL EXPERIENCE</h3>  
+  
+**[Centre for Technomoral Futures](https://www.technomoralfutures.uk/)  
+Edinburgh Futures Institute, University of Edinburgh**  
 Focusing on the ethical implications of present and future advances in AI, machine learning and other data-driven technologies.  
-**Baillie Gifford Programme Manager** (July 2022 - present)
+- **Baillie Gifford Programme Manager** (July 2022 - present)
+
+**[Helfrich Strategies, LLC](https://ginahelfrich.com)**  
+- **Principal Consultant** (June 2015 – Present)  
 
 **[Internews](https://globaltech.internews.org/)**  
 Internews empowers people worldwide with the trustworthy, high-quality news and information they need to make informed decisions, participate in their communities, and hold power to account.  
-**Program & Strategy Consultant** (July 2022 - present)  
-**Senior Program Officer for Global Technology** (Nov 2021 - June 2022)  
-**Program Officer for Global Technology** (Dec. 2019 - Oct 2021)  
-
-**[Helfrich Strategies, LLC](https://ginahelfrich.com)**  
-**Principal Consultant** (June 2015 – Present)  
+- **Program & Strategy Consultant** (July 2022 - present)  
+- **Senior Program Officer for Global Technology** (Nov 2021 - June 2022)  
+- **Program Officer for Global Technology** (Dec. 2019 - Oct 2021)  
 
 **[NumFOCUS](https://numfocus.org)**  
 501(c)(3) nonprofit promoting better science through open code.  
-**Director of Communications and Culture** (Jan. - Dec. 2019)  
-**Communications Director and Program Manager for Diversity & Inclusion** (Feb. 2017 – Dec. 2018)  
-**Communications Director** (July 2015 – April 2016)  
+- **Director of Communications and Culture** (Jan. - Dec. 2019)  
+- **Communications Director and Program Manager for Diversity & Inclusion** (Feb. 2017 – Dec. 2018)  
+- **Communications Director** (July 2015 – April 2016)  
   
 **[recruitHER](https://medium.com/@recruitHER)**  
 A women-owned recruiting and consulting firm committed to connecting diverse talent with opportunities in the tech industry.  
-**Co-Founder, VP Operations & Marketing** (July 2015 – July 2016) 
+- **Co-Founder, VP Operations & Marketing** (July 2015 – July 2016) 
 
 **[EvoSure](http://evosure.com/)**   
-B2B web technology startup focused on the commercial insurance industry.  
-**Lead Analyst** (March 2014 – March 2015)  
+B2B technology startup focused on the commercial insurance industry.  
+- **Lead Analyst** (March 2014 – March 2015)  
   
 **[Harvard College Women’s Center](http://hcwc.fas.harvard.edu/), Harvard University**  
 Unit in the Office of Student Life with mission to improve gender equity, women’s leadership, and inclusion and diversity on campus.  
-**Director** (July 2011 – Feb. 2014)  
-**Assistant Director** (Jan. 2010 – June 2011) 
+- **Director** (July 2011 – Feb. 2014)  
+- **Assistant Director** (Jan. 2010 – June 2011) 
   
 
-**VOLUNTEER EXPERIENCE**  
+<h3>VOLUNTEER EXPERIENCE</h3>  
   
 **Member, [American Philosophical Association Non-Academic Careers Committee](https://www.apaonline.org/group/nonacademic)** (2021 - 2024 term)
 
@@ -62,14 +65,13 @@ A solution-oriented group for people of all genders, providing actionable resour
 
 **[National Women's Studies Association (NWSA)](http://www.nwsa.org/)**  
 Annual conference for over 100 women's center professionals.  
-**Co-Chair, Women’s Centers Committee, Governing Council** (Nov. 2013 – Nov. 2015)  
-**Co-Chair, Women’s Centers Pre-Conference** (Nov. 2010 – Dec. 2012)  
+- **Co-Chair, Women’s Centers Committee, Governing Council** (Nov. 2013 – Nov. 2015)  
+- **Co-Chair, Women’s Centers Pre-Conference** (Nov. 2010 – Dec. 2012)  
 
 **Founder and Coordinator, New England Women’s Centers Conference** (Feb. – Nov. 2010)  
 Annual professional development conference for university women's center staff.  
   
- **Committee Service at Harvard**
-
+ **Committee Service at Harvard**  
 *   Office of BGLTQ Student Life Advisory Board Executive Committee, 2013–2014
 *   Committee on Degrees in Women’s, Gender, and Sexuality Studies (WGSS) Standing Committee, 2012–2014
 *   Faculty of Arts and Sciences Diversity Committee, 2011–2014
@@ -77,15 +79,17 @@ Annual professional development conference for university women's center staff.
 *   Harvard University Women in Business Advisory Board, 2011–2012
 
 
-**AWARDS & CERTIFICATIONS**  
+<h3>AWARDS & CERTIFICATIONS</h3>  
   
-**PMP Certification, Project Management Institute**, License No. 1829020  
+**[President's Award 2021](https://wcaustin.org/2021/04/10/2021-banner-award-winners/), Women Communicators of Austin**
+
+**PMP Certification, Project Management Institute**, License No. 1829020 (no longer current)  
   
 **Fly-In, [Austin Startup Week](http://atxstartupweek.com)** 2013  
 One of ten people chosen to be flown in as special guests for the inaugural Austin Startup Week.  
   
   
-**TEACHING EXPERIENCE**  
+<h3>TEACHING EXPERIENCE</h3>  
   
 **Lecturer**, **Committee on Degrees in Studies of Women, Gender, and Sexuality, [Harvard University](http://wgs.fas.harvard.edu/)**
 
