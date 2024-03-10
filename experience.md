@@ -23,7 +23,7 @@ active: experience
 **[Centre for Technomoral Futures](https://www.technomoralfutures.uk/)  
 Edinburgh Futures Institute, University of Edinburgh**  
 Focusing on the ethical implications of present and future advances in AI, machine learning and other data-driven technologies.  
-- **Manager** (July 2022 - present)k
+- **Manager** (July 2022 - present)
 
 **[Helfrich Strategies, LLC](https://ginahelfrich.com)**  
 - **Principal Consultant** (June 2015 – Present)  
