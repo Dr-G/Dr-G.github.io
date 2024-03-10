@@ -10,7 +10,7 @@ crawlertitle: "Gina Helfrich, Ph.D. | About"
 
 <h4 align="center">Technology | Ethics | Social Justice</h4>  
 
-Dr. Gina Helfrich is Baillie Gifford Programme Manager for the [Centre for Technomoral Futures](https://technomoralfutures.uk) at Edinburgh Futures Institute, University of Edinburgh.  
+Dr. Gina Helfrich is Manager of the [Centre for Technomoral Futures](https://technomoralfutures.uk) at Edinburgh Futures Institute, University of Edinburgh.  
 
 She leads on operations and strategy, working to deliver the Centre's mission and activities, which are focused on the ethical implications of present and future advances in artificial intelligence (AI), machine learning, and other data-driven technologies. She also serves as Deputy Chair of the University's AI and Data Ethics Advisory Board.  
 
