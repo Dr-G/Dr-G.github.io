@@ -30,7 +30,6 @@ Focusing on the ethical implications of present and future advances in AI, machi
 
 **[Internews](https://globaltech.internews.org/)**  
 Internews empowers people worldwide with the trustworthy, high-quality news and information they need to make informed decisions, participate in their communities, and hold power to account.  
-- **Program & Strategy Consultant** (July 2022 - present)  
 - **Senior Program Officer for Global Technology** (Nov 2021 - June 2022)  
 - **Program Officer for Global Technology** (Dec. 2019 - Oct 2021)  
 
