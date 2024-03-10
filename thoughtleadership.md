@@ -56,7 +56,8 @@ Austin, TX, 15 November 2016
 **"How to Recruit for Diversity and Achieve Inclusion"**  
 Austin, TX, 14 March 2016  
 
-**“Overcoming Unconscious Bias (with some help from Aristotle)”** St. Mary’s University Philosophy Department, Invited Talk  
+**“Overcoming Unconscious Bias (with some help from Aristotle)”**  
+St. Mary’s University Philosophy Department, Invited Talk  
 San Antonio, TX, April 10, 2015
 
 **[“How to be Good: Overcoming Unconscious Bias (with some help from Aristotle)”](https://vimeo.com/116983511)**  
