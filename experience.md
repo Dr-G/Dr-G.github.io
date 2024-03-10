@@ -22,35 +22,35 @@ active: experience
   
 **[Centre for Technomoral Futures](https://www.technomoralfutures.uk/)  
 Edinburgh Futures Institute, University of Edinburgh**  
-Focusing on the ethical implications of present and future advances in AI, machine learning and other data-driven technologies.  
+Focusing on the ethical implications of present and future advances in AI, machine learning and other data-driven technologies  
 - **Manager** (July 2022 - present)
 
 **[Helfrich Strategies, LLC](https://ginahelfrich.com)**  
 - **Principal Consultant** (June 2015 – Present)  
 
 **[Internews](https://globaltech.internews.org/)**  
-Internews empowers people worldwide with the trustworthy, high-quality news and information they need to make informed decisions, participate in their communities, and hold power to account.  
+Internews empowers people worldwide with the trustworthy, high-quality news and information they need to make informed decisions, participate in their communities, and hold power to account  
 - **Senior Program Officer for Global Technology** (Nov 2021 - June 2022)  
-- **Program Officer for Global Technology** (Dec. 2019 - Oct 2021)  
+- **Program Officer for Global Technology** (Dec 2019 - Oct 2021)  
 
 **[NumFOCUS](https://numfocus.org)**  
-501(c)(3) nonprofit promoting better science through open code.  
-- **Director of Communications and Culture** (Jan. - Dec. 2019)  
-- **Communications Director and Program Manager for Diversity & Inclusion** (Feb. 2017 – Dec. 2018)  
+501(c)(3) nonprofit promoting better science through open code  
+- **Director of Communications and Culture** (Jan - Dec 2019)  
+- **Communications Director and Program Manager for Diversity & Inclusion** (Feb 2017 – Dec 2018)  
 - **Communications Director** (July 2015 – April 2016)  
   
 **[recruitHER](https://medium.com/@recruitHER)**  
-A women-owned recruiting and consulting firm committed to connecting diverse talent with opportunities in the tech industry.  
+A women-owned recruiting and consulting firm committed to connecting diverse talent with opportunities in the tech industry  
 - **Co-Founder, VP Operations & Marketing** (July 2015 – July 2016) 
 
 **[EvoSure](http://evosure.com/)**   
-B2B technology startup focused on the commercial insurance industry.  
+B2B technology startup focused on the commercial insurance industry  
 - **Lead Analyst** (March 2014 – March 2015)  
   
 **[Harvard College Women’s Center](http://hcwc.fas.harvard.edu/), Harvard University**  
-Unit in the Office of Student Life with mission to improve gender equity, women’s leadership, and inclusion and diversity on campus.  
-- **Director** (July 2011 – Feb. 2014)  
-- **Assistant Director** (Jan. 2010 – June 2011) 
+Unit in the Office of Student Life with mission to improve gender equity, women’s leadership, and inclusion and diversity on campus  
+- **Director** (July 2011 – Feb 2014)  
+- **Assistant Director** (Jan 2010 – June 2011) 
   
 
 <h3>VOLUNTEER EXPERIENCE</h3>  
@@ -61,16 +61,16 @@ Unit in the Office of Student Life with mission to improve gender equity, women�
 
 **Secretary and VP Operations, [Women Communicators of Austin](https://wcaustin.org)** (June 2020 - May 2021)
 
-**Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct. 2014 – June 2017)  
-A solution-oriented group for people of all genders, providing actionable resources to combat sexism and support the retention and leadership of women in the tech industry in Austin.  
+**Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct 2014 – June 2017)  
+A solution-oriented group for people of all genders, providing actionable resources to combat sexism and support the retention and leadership of women in the tech industry in Austin  
 
 **[National Women's Studies Association (NWSA)](http://www.nwsa.org/)**  
-Annual conference for over 100 women's center professionals.  
-- **Co-Chair, Women’s Centers Committee, Governing Council** (Nov. 2013 – Nov. 2015)  
-- **Co-Chair, Women’s Centers Pre-Conference** (Nov. 2010 – Dec. 2012)  
+Annual conference for over 100 women's center professionals  
+- **Co-Chair, Women’s Centers Committee, Governing Council** (Nov 2013 – Nov 2015)  
+- **Co-Chair, Women’s Centers Pre-Conference** (Nov 2010 – Dec 2012)  
 
-**Founder and Coordinator, New England Women’s Centers Conference** (Feb. – Nov. 2010)  
-Annual professional development conference for university women's center staff.  
+**Founder and Coordinator, New England Women’s Centers Conference** (Feb – Nov 2010)  
+Annual professional development conference for university women's center staff  
   
  **Committee Service at Harvard University**  
 *   Office of BGLTQ Student Life Advisory Board Executive Committee, 2013–2014
