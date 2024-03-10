@@ -23,7 +23,7 @@ active: experience
 **[Centre for Technomoral Futures](https://www.technomoralfutures.uk/)  
 Edinburgh Futures Institute, University of Edinburgh**  
 Focusing on the ethical implications of present and future advances in AI, machine learning and other data-driven technologies.  
-- **Baillie Gifford Programme Manager** (July 2022 - present)
+- **Manager** (July 2022 - present)k
 
 **[Helfrich Strategies, LLC](https://ginahelfrich.com)**  
 - **Principal Consultant** (June 2015 – Present)  
@@ -58,6 +58,8 @@ Unit in the Office of Student Life with mission to improve gender equity, women�
   
 **Member, [American Philosophical Association Non-Academic Careers Committee](https://www.apaonline.org/group/nonacademic)** (2021 - 2024 term)
 
+**Member, Committee of Experts, Digital Gender Gap Study, Sasakawa Peace Foundation** (Oct 2023 - Feb 2024)
+
 **Secretary and VP Operations, [Women Communicators of Austin](https://wcaustin.org)** (June 2020 - May 2021)
 
 **Founder, [Feminist Hack ATX](http://www.feministhack.com/)** (Lead Organizer, Oct. 2014 – June 2017)  
@@ -71,11 +73,11 @@ Annual conference for over 100 women's center professionals.
 **Founder and Coordinator, New England Women’s Centers Conference** (Feb. – Nov. 2010)  
 Annual professional development conference for university women's center staff.  
   
- **Committee Service at Harvard**  
+ **Committee Service at Harvard University**  
 *   Office of BGLTQ Student Life Advisory Board Executive Committee, 2013–2014
 *   Committee on Degrees in Women’s, Gender, and Sexuality Studies (WGSS) Standing Committee, 2012–2014
 *   Faculty of Arts and Sciences Diversity Committee, 2011–2014
-*   Dean of Harvard College’s Strategic Planning Committee on Excellence in Undergraduate Teaching and Learning, Feb.–Dec. 2012
+*   Dean of Harvard College’s Strategic Planning Committee on Excellence in Undergraduate Teaching and Learning, Feb–Dec 2012
 *   Harvard University Women in Business Advisory Board, 2011–2012
 
 
@@ -89,7 +91,7 @@ Annual professional development conference for university women's center staff.
 One of ten people chosen to be flown in as special guests for the inaugural Austin Startup Week.  
   
   
-<h3>TEACHING EXPERIENCE</h3>  
+<h3>HIGHER EDUCATION TEACHING EXPERIENCE</h3>  
   
 **Lecturer**, **Committee on Degrees in Studies of Women, Gender, and Sexuality, [Harvard University](http://wgs.fas.harvard.edu/)**
 
