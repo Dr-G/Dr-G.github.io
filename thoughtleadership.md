@@ -27,6 +27,11 @@ Scottish Council for Voluntary Organisations: The Gathering, 8 November 2023
 **[ChatGPT: ‘Next Big Thing’ or passing trend?](https://www.youtube.com/watch?v=OJ2DXgAXnvw)** (panel event)  
 The Data Lab, 8 March 2023  
 
+**[Taking Algorithms to Court, Empowering Communities to Enact Legal Accountability](https://borhane.xyz/talk/acl-rightscon/)**  
+RightsCon 2022 (speaker)  
+Co-hosted with Ranjit Singh, Jillian Powers, and Borhane Blili-Hamelin  
+10 June 2022  
+
 **[Columbia University Distinguished Lectures in Computational Innovation](https://brown.columbia.edu/event/distinguished-lectures-in-computational-innovation-dr-gina-helfrich/)**  
 "Join or Die: The Future of Computational Innovation and the End of the Academy as We Know It"  
 11 April 2019
