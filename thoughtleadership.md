@@ -11,15 +11,15 @@ active: thought leadership
   
 <h4>ON TECHNOLOGY & AI</h4>
 
-**"The Harms of Terminology – Why We Should Reject So-Called 'Frontier AI',"** [AI and Ethics](https://link.springer.com/journal/43681)   
+**"The Harms of Terminology – Why We Should Reject So-Called 'Frontier AI',"** <em>[AI and Ethics](https://link.springer.com/journal/43681)</em>   
 (peer-reviewed, forthcoming 2024)  
 
 **[OpenAI chief executive Sam Altman's firing and rehiring casts new light on the war between AI 'doomers' and 'boomers'](https://www.scotsman.com/news/opinion/columnists/openai-chief-executive-sam-altmans-firing-and-rehiring-casts-new-light-on-the-war-between-ai-doomers-and-boomers-dr-gina-helfrich-4418584&?r=9134)**  
 [(non-paywall link)](https://efi.ed.ac.uk/openai-chief-executives-firing-rehiring-casts-new-light-on-the-war-between-ai-doomers-boomers/)  
-The Scotsman, 22 November 2023  
+<em>The Scotsman</em>, 22 November 2023  
 
 **[ChatGPT: Six reasons why we should all be wary of this kind of AI](https://www.scotsman.com/news/opinion/columnists/chatgpt-six-reasons-why-we-should-all-be-wary-of-this-kind-of-ai-dr-gina-helfrich-4026538)**  
-The Scotsman, 15 February 2023  
+<em>The Scotsman</em>, 15 February 2023  
 
 **[Artificial Intelligence and the voluntary sector: potential and pitfalls](https://scvo.scot/the-gathering/events/a1v3z00000JIbvQAAT/artificial-intelligence-and-the-voluntary-sector-potential-and-pitfalls)** (panel event)  
 Scottish Council for Voluntary Organisations: The Gathering, 8 November 2023  
@@ -39,7 +39,7 @@ Co-hosted with Ranjit Singh, Jillian Powers, and Borhane Blili-Hamelin
 <br>  
 <h4>ON GENDER & INCLUSION</h4>
 
-**[“Gender-inclusive practices in campus women’s and gender centers: Benefits, challenges, and future prospects,”](https://doi-org.eux.idm.oclc.org/10.1080/19407882.2017.1280054)** co-authored with Dr. Susan Marine and Liam Randhawa, NASPA Journal about Women in Higher Education (NJAWHE), Vol. 10, 2017, Issue 1  
+**[“Gender-inclusive practices in campus women’s and gender centers: Benefits, challenges, and future prospects,”](https://doi-org.eux.idm.oclc.org/10.1080/19407882.2017.1280054)** co-authored with Dr. Susan Marine and Liam Randhawa, <em>NASPA Journal about Women in Higher Education (NJAWHE)</em>, Vol. 10, 2017, Issue 1  
 (peer-reviewed)  
    
 **[Tech Inclusion Austin](https://austin17.techinclusion.co/)** (speaker)  
