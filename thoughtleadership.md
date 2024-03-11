@@ -11,8 +11,8 @@ active: thought leadership
   
 <h4>ON TECHNOLOGY & AI</h4>
 
-**"The Harms of Terminology – Why We Should Reject So-Called 'Frontier AI',"** <em>[AI and Ethics](https://link.springer.com/journal/43681)</em>   
-(peer-reviewed, forthcoming 2024)  
+**["The Harms of Terminology – Why We Should Reject So-Called 'Frontier AI',"](https://doi.org/10.1007/s43681-024-00438-1)** <em>AI and Ethics</em> (2024)  
+https://doi.org/10.1007/s43681-024-00438-1  
 
 **[OpenAI chief executive Sam Altman's firing and rehiring casts new light on the war between AI 'doomers' and 'boomers'](https://www.scotsman.com/news/opinion/columnists/openai-chief-executive-sam-altmans-firing-and-rehiring-casts-new-light-on-the-war-between-ai-doomers-and-boomers-dr-gina-helfrich-4418584&?r=9134)**  
 [(non-paywall link)](https://efi.ed.ac.uk/openai-chief-executives-firing-rehiring-casts-new-light-on-the-war-between-ai-doomers-boomers/)  
