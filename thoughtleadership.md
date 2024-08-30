@@ -4,7 +4,7 @@ layout: page
 title: "Thought Leadership"
 crawlertitle: "Gina Helfrich, Ph.D. | Thought Leadership"
 permalink: /thoughtleadership/
-# summary: "Communications, Diversity & Inclusion, Women in Tech & Business"
+# summary: "Technology & AI, Gender & Inclusion"
 active: thought leadership
 ---
 <h3>SELECTED PUBLICATIONS & PRESENTATIONS</h3>  
@@ -13,6 +13,9 @@ active: thought leadership
 
 **["The Harms of Terminology – Why We Should Reject So-Called 'Frontier AI',"](https://doi.org/10.1007/s43681-024-00438-1)** <em>AI and Ethics</em> (2024)  
 https://doi.org/10.1007/s43681-024-00438-1  
+
+**[Guiding the use of AI towards cultural benefit](https://www.linkedin.com/pulse/guiding-use-ai-towards-cultural-benefit-university-of-edinburgh-rinae/)** (2024)  
+co-authored with Prof. Shannon Vallor  
 
 **[OpenAI chief executive Sam Altman's firing and rehiring casts new light on the war between AI 'doomers' and 'boomers'](https://www.scotsman.com/news/opinion/columnists/openai-chief-executive-sam-altmans-firing-and-rehiring-casts-new-light-on-the-war-between-ai-doomers-and-boomers-dr-gina-helfrich-4418584&?r=9134)**  
 [(non-paywall link)](https://efi.ed.ac.uk/openai-chief-executives-firing-rehiring-casts-new-light-on-the-war-between-ai-doomers-boomers/)  
